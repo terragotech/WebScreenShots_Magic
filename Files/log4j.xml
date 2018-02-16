@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"
+	debug="false">
+	
+	<!-- rolling file appender -->
+	<appender name="Info_file" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${user.dir}/Files/logs/Info.log" />
+		 <param name="Threshold" value="INFO"/>
+		<param name="Append" value="true" />
+		<param name="ImmediateFlush" value="true" />
+		<param name="MaxFileSize" value="10MB" />
+		<param name="MaxBackupIndex" value="5" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %d{Z} [%t] %-5p (%F:%L) - %m%n" />
+		</layout>
+	</appender>
+	<!-- rolling file appender -->
+	<appender name="Error_file" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${user.dir}/Files/logs/Error.log" />
+		 <param name="Threshold" value="ERROR"/>
+		<param name="Append" value="true" />
+		<param name="ImmediateFlush" value="true" />
+		<param name="MaxFileSize" value="10MB" />
+		<param name="MaxBackupIndex" value="5" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %d{Z} [%t] %-5p (%F:%L) - %m%n" />
+		</layout>
+	</appender>
+
+	
+
+	<root>
+		<priority value="INFO" />
+		<appender-ref ref="Error_file" />
+		<appender-ref ref="Info_file" />
+	</root>
+
+</log4j:configuration>

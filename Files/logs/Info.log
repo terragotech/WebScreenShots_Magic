@@ -1,0 +1,73 @@
+2018-01-22 16:37:22,928 +0530 [main] INFO  (WebMagicScreenshots.java:89) - ***************Started****************
+2018-01-22 16:37:29,204 +0530 [main] INFO  (WebMagicScreenshots.java:188) - The screenshot has been taken for HomeScreen
+2018-01-22 16:37:33,161 +0530 [main] INFO  (WebMagicScreenshots.java:204) - The screenshot has been taken for DashboardRecentNotes,TaskNotes,Notebooks,Maps,Forms
+2018-01-22 16:37:43,457 +0530 [main] INFO  (WebMagicScreenshots.java:233) - The screenshot has been taken for ImportingEdgeFiles
+2018-01-22 16:37:53,788 +0530 [main] INFO  (WebMagicScreenshots.java:255) - The screenshot has been taken for BulkNoteCreation
+2018-01-22 16:37:56,738 +0530 [main] INFO  (WebMagicScreenshots.java:271) - The screenshot has been taken for ImportingShapefiles
+2018-01-22 16:37:59,803 +0530 [main] INFO  (WebMagicScreenshots.java:286) - The screenshot has been taken for ImportingKMLfiles
+2018-01-22 16:38:02,740 +0530 [main] INFO  (WebMagicScreenshots.java:301) - The screenshot has been taken for ImportingGeodatabase
+2018-01-22 16:38:05,678 +0530 [main] INFO  (WebMagicScreenshots.java:317) - The screenshot has been taken for ImportingGeopackage
+2018-01-22 16:38:09,668 +0530 [main] INFO  (WebMagicScreenshots.java:335) - The screenshot has been taken for ImportingArcGIS
+2018-01-22 16:38:12,358 +0530 [main] INFO  (WebMagicScreenshots.java:987) - The screenshot has been taken for Add New User
+2018-01-22 16:38:21,910 +0530 [main] INFO  (WebMagicScreenshots.java:1013) - The screenshot has been taken for Add device to user
+2018-01-22 16:38:22,019 +0530 [main] INFO  (WebMagicScreenshots.java:1030) - The screenshot has been taken for Add device
+2018-01-22 16:38:27,085 +0530 [main] INFO  (WebMagicScreenshots.java:1049) - The screenshot has been taken for Modify User and Device Settings
+2018-01-22 16:38:27,213 +0530 [main] INFO  (WebMagicScreenshots.java:1064) - The screenshot has been taken for Group and Device Settings
+2018-01-22 16:38:32,424 +0530 [main] INFO  (WebMagicScreenshots.java:1082) - The screenshot has been taken for ArcGIS Integration 
+2018-01-22 16:38:37,575 +0530 [main] INFO  (WebMagicScreenshots.java:1109) - The screenshot has been taken for Measurement type Static
+2018-01-22 16:38:40,673 +0530 [main] INFO  (WebMagicScreenshots.java:1129) - The screenshot has been taken for User Locator
+2018-01-22 16:38:44,999 +0530 [main] INFO  (WebMagicScreenshots.java:1152) - The screenshot has been taken for Measurement type - Dynamic
+2018-01-22 16:38:53,162 +0530 [main] INFO  (WebMagicScreenshots.java:366) - The screenshot has been taken for Creating a New Notebook 
+2018-01-22 16:38:56,011 +0530 [main] INFO  (WebMagicScreenshots.java:381) - The screenshot has been taken for Adding Maps and WMS Overlays to Notebook
+2018-01-22 16:39:00,082 +0530 [main] INFO  (WebMagicScreenshots.java:398) - The screenshot has been taken for Adding FormTemplates to Notebook
+2018-01-22 16:39:03,239 +0530 [main] INFO  (WebMagicScreenshots.java:426) - The screenshot has been taken for Enabling QuickNote Form
+2018-01-22 16:39:06,752 +0530 [main] INFO  (WebMagicScreenshots.java:445) - The screenshot has been taken for AddingUserAccesstoNotebook
+2018-01-22 16:39:11,623 +0530 [main] INFO  (WebMagicScreenshots.java:480) - The screenshot has been taken for NotebooksListView
+2018-01-22 16:39:14,652 +0530 [main] INFO  (WebMagicScreenshots.java:505) - The screenshot has been taken for NotebookExport
+2018-01-22 16:39:18,688 +0530 [main] INFO  (WebMagicScreenshots.java:523) - The screenshot has been taken for Notebooks Select Multiple
+2018-01-22 16:39:27,817 +0530 [main] INFO  (WebMagicScreenshots.java:568) - The screenshot has been taken for Creating a Note 
+2018-01-22 16:39:35,551 +0530 [main] INFO  (WebMagicScreenshots.java:584) - The screenshot has been taken for Resource Types in a Note
+2018-01-22 16:39:44,701 +0530 [main] INFO  (WebMagicScreenshots.java:608) - The screenshot has been taken for Photo attached in a note 
+2018-01-22 16:39:57,170 +0530 [main] INFO  (WebMagicScreenshots.java:633) - The screenshot has been taken for  Video attached in a note
+2018-01-22 16:40:09,355 +0530 [main] INFO  (WebMagicScreenshots.java:656) - The screenshot has been taken for Audio attached in a note 
+2018-01-22 16:40:21,268 +0530 [main] INFO  (WebMagicScreenshots.java:679) - The screenshot has been taken for  File attachments
+2018-01-22 16:40:43,607 +0530 [main] INFO  (WebMagicScreenshots.java:717) - The screenshot has been taken for Multiple Resources in a Note
+2018-01-22 16:40:52,957 +0530 [main] INFO  (WebMagicScreenshots.java:750) - The screenshot has been taken for Form attached in note
+2018-01-22 16:41:02,859 +0530 [main] INFO  (WebMagicScreenshots.java:787) - The screenshot has been taken for Creating Blank and Cloned Notes
+2018-01-22 16:41:09,139 +0530 [main] INFO  (WebMagicScreenshots.java:802) - The screenshot has been taken for Notes - List View
+2018-01-22 16:41:12,130 +0530 [main] INFO  (WebMagicScreenshots.java:819) - The screenshot has been taken for Notes - Select Multiple 
+2018-01-22 16:41:15,203 +0530 [main] INFO  (WebMagicScreenshots.java:836) - The screenshot has been taken for Notes - Map View
+2018-01-22 16:41:24,789 +0530 [main] INFO  (WebMagicScreenshots.java:1178) - The screenshot has been taken for Creating a Tasknote 
+2018-01-22 16:41:32,977 +0530 [main] INFO  (WebMagicScreenshots.java:1196) - The screenshot has been taken for Tasknotes - List View
+2018-01-22 16:41:35,941 +0530 [main] INFO  (WebMagicScreenshots.java:1212) - The screenshot has been taken for Tasknotes - Select Multiple
+2018-01-22 16:41:39,493 +0530 [main] INFO  (WebMagicScreenshots.java:1237) - The screenshot has been taken for Forms - List View
+2018-01-22 16:41:42,536 +0530 [main] INFO  (WebMagicScreenshots.java:1260) - The screenshot has been taken for Attaching a form to multiple notebooks 
+2018-01-22 16:41:46,559 +0530 [main] INFO  (WebMagicScreenshots.java:1278) - The screenshot has been taken for Forms – Select Multiple
+2018-01-22 16:41:53,165 +0530 [main] INFO  (WebMagicScreenshots.java:1295) - The screenshot has been taken for Creating a New Form
+2018-01-22 16:42:05,881 +0530 [main] INFO  (WebMagicScreenshots.java:1316) - The screenshot has been taken for Importing a Form Template
+2018-01-22 16:42:14,182 +0530 [main] INFO  (WebMagicScreenshots.java:1344) - The screenshot has been taken for Setting Form ElementPropertiesand Conditions
+2018-01-22 16:42:38,886 +0530 [main] INFO  (WebMagicScreenshots.java:1424) - The screenshot has been taken for Create a New Map 
+2018-01-22 16:42:41,000 +0530 [main] INFO  (WebMagicScreenshots.java:1439) - The screenshot has been taken for Select base map
+2018-01-22 16:42:43,333 +0530 [main] INFO  (WebMagicScreenshots.java:1457) - The screenshot has been taken for Search Location
+2018-01-22 16:42:48,241 +0530 [main] INFO  (WebMagicScreenshots.java:1482) - The screenshot has been taken for Draw Map Area 
+2018-01-22 16:42:52,299 +0530 [main] INFO  (WebMagicScreenshots.java:859) - The screenshot has been taken for Maps List View
+2018-01-22 16:42:56,608 +0530 [main] INFO  (WebMagicScreenshots.java:876) - The screenshot has been taken for Maps – Select Multiple
+2018-01-22 16:42:57,196 +0530 [main] INFO  (WebMagicScreenshots.java:900) - Failed to take a screenshot for Attach map to multiple notebooks
+2018-01-22 16:42:57,200 +0530 [main] ERROR (WebMagicScreenshots.java:902) - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-NVV8AO8', ip: '172.18.200.173', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\Chandru\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.132, webStorageEnabled: true}
+Session ID: 8f6f31c23245f8d0ffb011e47edc6e77
+2018-01-22 16:43:01,273 +0530 [main] INFO  (WebMagicScreenshots.java:1510) - The screenshot has been taken for Map Overlays 
+2018-01-22 16:43:04,243 +0530 [main] INFO  (WebMagicScreenshots.java:1527) - The screenshot has been taken for Map Overlays – Select Multiple
+2018-01-22 16:43:23,528 +0530 [main] INFO  (WebMagicScreenshots.java:1551) - The screenshot has been taken for Creating a New Map Overlay 
+2018-01-22 16:44:33,186 +0530 [main] INFO  (WebMagicScreenshots.java:1682) - Failed to take a screenshot for importMapFiles
+2018-01-22 16:44:33,189 +0530 [main] ERROR (WebMagicScreenshots.java:1684) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@class='rz-pointer rz-pointer-min'] (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-01-22 16:44:39,187 +0530 [main] INFO  (WebMagicScreenshots.java:928) - The screenshot has been taken for Mark your location - Point
+2018-01-22 16:44:47,100 +0530 [main] INFO  (WebMagicScreenshots.java:962) - The screenshot has been taken for Mark your location – Polyline
+2018-01-22 16:44:47,267 +0530 [main] INFO  (WebMagicScreenshots.java:102) - ***************END*************
